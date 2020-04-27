@@ -1,1 +1,4 @@
-# soruCozum
+Soru 1-) A bir asal sayı ve  A>S olmak üzere en küçük A'yı bulan bir kod yazarak sonucu gösteriniz.
+Not: Küçük sayılarla hızlı denemeler yapıp kodunuzun düzgün çalıştığından emin olun. Mesela, 2003'ten sonraki ilk asal sayıyı (2011) bulmayı deneyin. Bunu yaptıktan sonra 18 basamaklı sayıya geçin. Bir sayıyı asal mı değil mi diye test ederken o sayının kareköküne kadar olan sayıları kontrol etmenizin yeterli olduğunu unutmayın. Mesela 101'i test etmek için sadece [2,3,..,10] 'a kadar bölüm yapmanız yeterli, 101'e kadar tüm sayılara bölmek gereksiz yere işlemlerinizi uzatır. Ayrıca, çift sayıların, sonu 5'le biten sayıların, 3'e bölünebilen sayıların zaten asal olamayacağını kod içinde kullanın. Örneğin 105 sayısını bölme testine tabi tutmanıza hiç gerek yok, çünkü 5'e (ve hatta 3'e) bölünebildiği zaten belli. bu tür sayıları direk atlayın.
+
+cevap c++ ile yazılmıştır
